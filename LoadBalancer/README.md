@@ -13,7 +13,7 @@
 6) This approach enhances the system's reliability and improves overall application performance.
 
 
-![Load Balancer](LoadBalancer.png)
+![Load Balancer](images/LoadBalancer.png)
 
 
 ## Load balancing algorithms :
@@ -35,7 +35,7 @@ These are just a few of the many load balancing strategies that can be used, and
 
 ## Load Balancers available in market
 
-![Load Balancer](LoadBalancer-Examples.png)
+![Load Balancer](images/LoadBalancer-Examples.png)
 
 ## Horizontal scaling with a load balancer
 
